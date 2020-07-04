@@ -1,1 +1,1 @@
-[text] (helenajohansen.com)
+[text] (https://helenajohansen.com)
